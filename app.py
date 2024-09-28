@@ -11,10 +11,10 @@ html_temp = """<div style="background-color:#000;padding:10px;border-radius:10px
                 """
 
 desc_temp = """ ### Loan Prediction App 
-                This app is used by Credit team for deciding Loan Application
-                
+                Aplikasi mini credit scoring untuk menentukan eligibilitas seseorang apabila mengajukan kredit
+                dengan pendekatan Logistic Regression Model
                 #### Data Source
-                Kaggle: Link <Masukkan Link>
+                Rio Agustra - SPE
                 """
 
 def main():
